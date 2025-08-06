@@ -63,7 +63,24 @@ print("Output:", output)
 model.adapt()
 ```
 
-**Activation Functions**
+**Terminal**
+
+```bash
+Input: [0.2 0.8 0.5 0.1]
+Output: [0.         0.         0.         0.085 0.102 0.      ]
+```
+---
+***Customize***
+
+| Feature          | How to Modify                                |
+| ---------------- | -------------------------------------------- |
+| # of neurons     | Change `output_size` in `SARNLayer`          |
+| Activation       | Set `activation=your_func` in `SARNLayer`    |
+| Weights / biases | Use `layer.set_weights()` or `.set_biases()` |
+| Neuron growth    | `model.adapt()` + auto-neurogenesis          |
+
+
+***Activation Functions***
 
 ```bash
 from sarn_ai.functions import neuro_spike, adaptive_pulse, neuro_softmax
