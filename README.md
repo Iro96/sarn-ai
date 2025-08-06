@@ -47,7 +47,7 @@ pip install -e .
 **Example**
 
 ```bash
-from sarn_ai import SARNLayer, SARNNetwork
+from SarnAi import SARNLayer, SARNNetwork
 
 # Define a custom SARN-based network
 input_layer = SARNLayer(input_size=4, output_size=8, k=3)
@@ -86,7 +86,7 @@ Output: [0.00000000e+00 5.00453877e-10]
 ***Activation Functions***
 
 ```bash
-from sarn_ai.functions import neuro_spike, adaptive_pulse, neuro_softmax
+from SarnAi.functions import neuro_spike, adaptive_pulse, neuro_softmax
 ```
 
 | Function         | Uses                                 |
