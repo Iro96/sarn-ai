@@ -8,6 +8,7 @@
 <img src="https://github.com/Iro96/SarnAI/blob/main/img/logo.png" width="200" height="200"/>
 
 [![License](https://img.shields.io/badge/License-Apache2.0-blue.svg)](https://opensource.org/license/apache2.0/)
+[![Pytest](https://github.com/Iro96/sarn-ai/actions/workflows/python-package.yml/badge.svg)](https://github.com/Iro96/sarn-ai/actions/workflows/python-package.yml)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sarn)
 ![PyPI](https://img.shields.io/pypi/v/sarn)
 [![Stars](https://img.shields.io/github/stars/Iro96/sarnAI.svg?style=social&label=Star)](https://github.com/yourusername/sarnAI)
