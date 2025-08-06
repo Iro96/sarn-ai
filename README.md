@@ -67,9 +67,11 @@ model.adapt()
 
 ```bash
 Input: [0.2 0.8 0.5 0.1]
-Output: [0.         0.         0.         0.085 0.102 0.      ]
+Output: [0.00000000e+00 5.00453877e-10]
 ```
+
 ---
+
 ***Customize***
 
 | Feature          | How to Modify                                |
