@@ -5,7 +5,7 @@
 
 **SARN** is a modular, brain-inspired neural network engine that supports **sparse top-k activations**, **neurogenesis**, **self-rewiring**, and **biological activation functions**. Designed to simulate real neuron behavior, it's ideal for building your own evolving neural systems with full control over nodes, weights, connections, and more.
 
-![Neural Graphic](https://github.com/Iro96/SarnAI/img/logo.png)
+<img src="https://github.com/Iro96/SarnAI/blob/main/img/logo.png" width="200" height="200"/>
 
 [![License](https://img.shields.io/badge/License-Apache2.0-blue.svg)](https://opensource.org/license/apache2.0/)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sarn)
