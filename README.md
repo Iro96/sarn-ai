@@ -30,14 +30,14 @@
 ### 🔧 Install via PyPI
 
 ```bash
-pip install sarn-ai
+pip install sarn
 ```
 
 ### $ Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/sarn-ai.git
-cd sarn-ai
+git clone https://github.com/yourusername/SarnAI.git
+cd SarnAI
 pip install -e .
 ```
 
