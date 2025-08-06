@@ -37,8 +37,8 @@ or
 ### $ Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/SarnAI.git
-cd SarnAI
+git clone https://github.com/yourusername/sarn-ai.git
+cd sarn-ai
 pip install -e .
 ```
 
