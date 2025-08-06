@@ -1,4 +1,4 @@
-from sarn.network import SARNNetwork
+from SarnAi.network import SARNNetwork
 
 def test_output_shape():
     model = SARNNetwork(input_size=4, hidden_size=8, output_size=2)
