@@ -32,6 +32,7 @@
 ```bash
 pip install sarn
 ```
+or
 
 ### $ Clone this repository
 
